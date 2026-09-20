@@ -30,7 +30,7 @@ Styling: CSS
 Version Control: Git + GitHub>
 
 ## Demo Video
-<Link : https://drive.google.com/drive/folders/1oYxtunGZObF6yomj_BqvGzNK_0LPObAP?usp=sharing>
+[Watch Demo Video](https://drive.google.com/drive/folders/1oYxtunGZObF6yomj_BqvGzNK_0LPObAP?usp=sharing)
 
 ## Screenshots
 See the `photos/` folder in this directory for working screenshots/photos of the project.
@@ -122,4 +122,4 @@ After starting, verify:
 - Ambulance console shows map with GPS tracking
 - Python terminal shows `[ROUTING] Engine ready`
 
-> Frontend GitHub repo: https://github.com/3bin-05/GabrielFrontend
+>GitHub repo: https://github.com/3bin-05/GabrielFrontend
